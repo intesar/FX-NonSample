@@ -5,9 +5,6 @@ version: '1'
 # App (Project) name
 name: FX-Sample
 
-# App description
-description: FX Testing.
-
 # license
 licenses:
   - APACHE LICENSE, VERSION 2.
